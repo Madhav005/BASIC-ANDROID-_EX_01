@@ -24,6 +24,7 @@ Step 7: Save and run the application.
 
 ## PROGRAM:
 Program to implement a Hello world Activity using all lifecycles methods using Android Studio .
+
 Developed by: Madhavan M
 RegisterNumber: 212222040089
 
@@ -110,4 +111,7 @@ public class MainActivity extends AppCompatActivity {
 ![Screenshot 2024-09-28 134034](https://github.com/user-attachments/assets/558e925c-0c7d-46dd-8679-8b96cbbd90b3)
 
 ![Screenshot 2024-09-28 134208](https://github.com/user-attachments/assets/e2a885f1-cfca-4cfb-a83e-0cae57d79e3e)
+
+## RESULT:
+Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
 
